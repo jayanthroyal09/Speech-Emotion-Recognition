@@ -35,34 +35,6 @@ The *Hearmony* is a deep learning-based project that identifies human emotions f
 
 ---
 
-## 🗂 Folder Structure
-
-
-VoiceMood/
-│
-├── spectrograms/                    # Spectrogram images organized by emotion label
-│   ├── happy/
-│   ├── sad/
-│   ├── angry/
-│   ├── calm/
-│   ├── fearful/
-│   ├── disgust/
-│   └── surprised/
-│
-├── models/
-│   ├── cnn_model.keras             # Trained CNN model
-│   └── label_classes.npy           # Saved label encoder classes
-│
-├── train_cnn.py                    # CNN model training script
-├── app.py                          # Main Streamlit application
-├── recorded_audio.wav              # Temporary audio file
-├── spectrogram.png                 # Generated spectrogram image
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🚀 How to Run the Project
 
 ### ✅ Requirements
