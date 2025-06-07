@@ -16,6 +16,28 @@ The *Hearmony* is a deep learning-based project that identifies human emotions f
 
 ---
 
+## ✨ Demo
+
+### 🔹 Web Interface  
+![Web Interface](static/1.jpg)
+![Web Interface](static/2.jpg)
+![Web Interface](static/3.jpg)
+
+---
+
+### 🔹 Record Your Voice  
+![Background](static/4.jpg)
+
+---
+
+### 🔹 Voice Analysis  
+![Voice Analysis](static/5.jpg)
+
+---
+
+### 🔹 Personal Insights 
+![Personal Recommendations](static/6.jpg)
+
 ## 🛠 Tech Stack
 
 ### 🧩 Machine Learning & Deep Learning
