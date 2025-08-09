@@ -185,12 +185,6 @@ pillow
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 
 
 Built with ❤ for emotional wellness and mental health awareness
